@@ -1,0 +1,13 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+button {
+    margin: 1em;
+}
